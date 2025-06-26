@@ -29,5 +29,10 @@
       }
     ]
   },
-  "type": "module"
+  "type": "module",
+  "dependencies": {
+    "gsa": "^0.0.0",
+    "gsap": "^3.13.0",
+    "p": "^0.2.0"
+  }
 }
